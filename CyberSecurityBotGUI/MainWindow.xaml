@@ -91,7 +91,7 @@
             <TextBox x:Name="ChatArea"
                      Grid.Row="0"
                      Background="#2B2B2B"
-                     Foreground="White"
+                     Foreground="LawnGreen"
                      FontSize="16"
                      IsReadOnly="True"
                      TextWrapping="Wrap"
